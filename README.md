@@ -1,6 +1,6 @@
 ## Hi there 👋
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=60&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&height=100&lines=Aditya+Devkate"/>
+![](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=I'm%20Aditya%20Devkate&fontColor=f5f5f5)
 
 </div>
