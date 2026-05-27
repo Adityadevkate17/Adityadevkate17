@@ -1,16 +1,27 @@
 ## Hi there 👋
 
-<!--
-**Adityadevkate17/Adityadevkate17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Aditya Devkate</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">
+Aspiring Data Analyst | Python Developer
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+SQL • Excel • Power BI • Python • Machine Learning
+</p>
+
+---
+
+<p align="center">
+<i>"Without data, you're just another person with an opinion."</i>
+</p>
+
+<h2 align="center">
+🚀 Building Analytics & Python Projects
+</h2>
+
+<p align="center">
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge">
+</a>
+</p>
